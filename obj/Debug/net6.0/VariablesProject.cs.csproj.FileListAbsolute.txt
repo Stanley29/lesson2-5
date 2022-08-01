@@ -1,0 +1,15 @@
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/bin/Debug/net6.0/VariablesProject.cs
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/bin/Debug/net6.0/VariablesProject.cs.deps.json
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/bin/Debug/net6.0/VariablesProject.cs.runtimeconfig.json
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/bin/Debug/net6.0/VariablesProject.cs.dll
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/bin/Debug/net6.0/VariablesProject.cs.pdb
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/VariablesProject.cs.csproj.AssemblyReference.cache
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/VariablesProject.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/VariablesProject.cs.AssemblyInfoInputs.cache
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/VariablesProject.cs.AssemblyInfo.cs
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/VariablesProject.cs.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/VariablesProject.cs.dll
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/refint/VariablesProject.cs.dll
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/VariablesProject.cs.pdb
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/VariablesProject.cs.genruntimeconfig.cache
+/Users/paul/Projects/VariablesProject.cs/VariablesProject.cs/obj/Debug/net6.0/ref/VariablesProject.cs.dll
