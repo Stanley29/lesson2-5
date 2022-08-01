@@ -4,14 +4,28 @@
     {
         static void Main (string[] args)
         {
-            
 
-            Console.WriteLine(Math.Abs(3) * Math.Sin(20));
+            int num_1 = 3;
+            int num_2 = 20;
+            double res_1 = Math.Abs(num_1) * Math.Sin(num_2);
+            Console.WriteLine(res_1);
 
-            Console.WriteLine(-6 * 10 ^ 3 + 5 * 5 ^ 2 - 10 * 2 + 15);
+            int num = -6;
+            double Xx = num * Math.Pow(num, 3) + 5 * Math.Pow(num, 2) - 10 * num + 15;
 
-            Console.WriteLine(2 * Math.PI * 5);
-            Console.WriteLine(Math.Max(10, 125));
+            Console.WriteLine(Xx);
+
+            int num2 = 2;
+            double res = num2 * Math.PI * num2;
+            Console.WriteLine(res);
+
+
+            int num_3 = 10;
+            int num_4 = 125;
+            double result = Math.Max(num_3, num_4);
+            Console.WriteLine(result);
+
+           
 
             
 
