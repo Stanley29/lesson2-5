@@ -1,19 +1,19 @@
-﻿//Console.WriteLine("Hello, World!");
-
-using System;
-
-namespace Lesson_2
+﻿namespace Lesson_2
 {
     class Lesson
     {
         static void Main (string[] args)
         {
-            string Name = "Paul";
+            
 
-            int? Age = 21;
+            Console.WriteLine(Math.Abs(3) * Math.Sin(20));
 
+            Console.WriteLine(-6 * 10 ^ 3 + 5 * 5 ^ 2 - 10 * 2 + 15);
 
-            Console.WriteLine($"{Name} is {Age} years old");
+            Console.WriteLine(2 * Math.PI * 5);
+            Console.WriteLine(Math.Max(10, 125));
+
+            
 
 
 
@@ -21,12 +21,6 @@ namespace Lesson_2
     }
 }
 
-//string Name = "Paul";
-
-//int? Age = 21;
-
-
-//Console.WriteLine($"{Name} is {Age} years old"); 
 
 
 
